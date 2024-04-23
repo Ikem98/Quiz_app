@@ -28,4 +28,10 @@ button{
   border-radius: 4px;
   cursor: pointer;
   background-color: #808080;
+  color: #f8f8f8;
+
+}
+
+.btn-disabled {
+  
 }
