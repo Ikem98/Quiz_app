@@ -33,5 +33,15 @@ button{
 }
 
 .btn-disabled {
-  
+  background-color: lightgray;
+
+}
+
+li {
+  list-style-type: none;
+  cursor: pointer;
+  margin: 9px 0;
+  padding: ;
+
+
 }
