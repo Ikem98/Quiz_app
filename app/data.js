@@ -8,6 +8,8 @@ export const quiz ={
     correctAnswer: 'Jupiter',},
     {
         id: 2,
+        question: 'What is the largest planet in our solar system?',
+        answers: ['', '', '', '',]
 
 
 
