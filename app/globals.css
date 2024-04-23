@@ -20,4 +20,12 @@ h3 {
   font-size: 1.8rem;
 
 }
-butto
+button{
+  padding: 16px 8px;
+  width: 100%;
+  margin-top: 12px;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #808080;
+}
